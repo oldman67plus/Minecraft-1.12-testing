@@ -8,6 +8,7 @@ I do allow use of these files sine they aren't mine and I will credit the poeple
 This repo is where I will dump my files that I'm using for 1.12, this is just for testing and should not be used to actually run minecraft right now. It will be able to run minecraft when I finish the code, but I will not share the files that work (all other files that isn't supposed to will be here) until I get a system to verify you own a legetimate copy of minecraft java, but until then files that work won't be here.
 
 # Notes/Updates:
+12/6/24: tried to make index.html but failed and moved files out from 1.12 folder and renamed "main-1.12.html" to "index.html". still trying to get 1.12 to work
 10/24/24: Currently I am trying to find files for 1.12 on javascript and I am also trying to port 1.19 if I am able to. I don't know a lot of code so this will take a while.
 
 # Contact:
